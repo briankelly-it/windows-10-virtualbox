@@ -17,9 +17,11 @@ This tutorial outlines the steps to create a virtual machine running Windows 10 
 
 - Download and install VirtualBox - [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
 
-<h2>Installation Steps</h2>
+<br>
 
-<h3>Step 1: Download Windows Media Creation Tool</h3>
+<h1>Installation Steps</h1>
+
+<h2>Step 1: Download Windows Media Creation Tool</h2>
 
 <p>To download Windows 10 you will need a valid Windows 10 license. You will need to visit the URL below
 and download the Windows 10 media creation tool:</p>
@@ -34,7 +36,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-<h3>Step 2: Create a Windows 10 ISO file</h3>
+<h2>Step 2: Create a Windows 10 ISO file</h2>
 
 <p>
 <img src="https://i.imgur.com/BF1vHcI.png" width="50%" alt="Media Creation Tool steps"/>
@@ -48,7 +50,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/xh3Kkta.png" width="50%" alt="Media Creation Tool steps"/>
 </p>
 
-<h3>Step 3: Create a VM in VirtualBox</h3>
+<h2>Step 3: Create a VM in VirtualBox</h2>
 
-<h3>Step 4: Install Windows on the VM</h3>
+<p>
+<img src="https://i.imgur.com/rpAZf5W.png" width="80%" alt="Media Creation Tool steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/rpAZf5W.png" width="80%" alt="Media Creation Tool steps"/>
+</p>
+
+
+<h2>Step 4: Install Windows on the VM</h2>
 
