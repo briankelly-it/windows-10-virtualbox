@@ -70,33 +70,30 @@ you get to the "What do you want to do" screen.
 <p>In order to install Windows on the VM, we need to <b>mount</b> the ISO file. This is no different than inserting a USB or a CD-ROM with Windows into your computer. First, select the VM you just created on the left and click "Settings" as shown below:</p>
 <img src="https://i.imgur.com/Xb0T0cR.png" width="50%" alt="Media Creation Tool download"/>
 
-<p>Under the VM settings, click the Storage tab and click the disk icon under the "Storage Devices" section. In the image below, it has the word "Empty" next to it indicating that there is no optical disc (or disc image) selected. Then select the dropdown disc icon and click "ChooseVirtual Optical Disk File..."</p>
-<img src="https://i.imgur.com/TeDozXn.png" width="70%" alt="Media Creation Tool download"/>
+<p>Under the VM settings, click the Storage tab and click the disk icon under the "Storage Devices" section. In the image below, it has the word "Empty" next to it indicating that there is no optical disc (or disc image) selected. Then select the dropdown disc icon and click "Choose a disk file..."</p>
+<img src="https://i.imgur.com/lUhHj3J.png" width="90%" alt="Media Creation Tool download"/>
 
 
-<p>From here just navigate to the ISO you wish to mount to theVM. Once you selected the ISO click OK and
-save the settings.
-At this point we are ready to launch theVMs.Regardless of whether you are usingVirtualBox, Hyper-V,
-Windows or Linux, once you launch theVMs the steps covered in the next chapter will be the same.
-To start aVM inVirtualBox you just need to right-click on theVM and select Start > Normal Start.</p>
+<p>From here just navigate to the ISO you wish to mount to the VM. Once you selected the ISO click OK and save the settings.</p>
+<p>At this point we are ready to launch the VM.</p>
 
+<p>To start a VM in VirtualBox you just need to right-click on the VM and select Start > Normal Start. (or just double-click the VM)</p>
 <img src="https://i.imgur.com/67Bk04p.png" width="50%" alt="Media Creation Tool download"/>
 
-<p>
-<img src="https://i.imgur.com/CuCDusl.png" width="33%" alt="Media Creation Tool download"/>
-</p>
-<p>
-<img src="https://i.imgur.com/MXHHUYe.png" width="33%" alt="Media Creation Tool download"/>
-</p>
-<p>
-<img src="https://i.imgur.com/MKwt15j.png" width="33%" alt="Media Creation Tool download"/>
-</p>
-<p>
+<p>After the VM starts up, click next on the first Windows Setup screen to proceed, then "Install Now".</p>
+<img src="https://i.imgur.com/CuCDusl.png" width="70%" alt="Media Creation Tool download"/>
+
+<p>On the next screen you will be asked to enter your license key. If you don't have one, you can proceed with an evaluation installation by clicking "I don't have a product key".</p>
+<img src="https://i.imgur.com/MXHHUYe.png" width="50%" alt="Media Creation Tool download"/>
+
+<p>Next you need to select the operating system that you want to install and click Next. I tend to choose the Pro edition because it offers more features. Accept the license terms on the next screen and click Next</p>
 <img src="https://i.imgur.com/Puut87l.png" width="33%" alt="Media Creation Tool download"/>
-</p>
-<p>
+
+On the next screen you need to .</p>
+<img src="https://i.imgur.com/MKwt15j.png" width="33%" alt="Media Creation Tool download"/>
+
+
 <img src="https://i.imgur.com/rNPbdyg.png" width="33%" alt="Media Creation Tool download"/>
-</p>
 
 <br />
 <h2>Next Steps...</h2>
