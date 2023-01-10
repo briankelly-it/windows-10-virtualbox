@@ -17,10 +17,9 @@ This tutorial outlines the steps to create a virtual machine running Windows 10 
 
 - Download and install VirtualBox - [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
 
-<br>
+<br />
 
 <h1>Installation Steps</h1>
-
 
 <h2>Step 1: Download Windows Media Creation Tool</h2>
 
@@ -36,58 +35,42 @@ and download the Windows 10 media creation tool:</p>
 Once the download is complete go ahead and launch the tool. Accept the license terms and click Next until
 you get to the "What do you want to do" screen.
 </p>
+
 <br />
-
-
 <h2>Step 2: Create a Windows 10 ISO file</h2>
 
-<p>
-  As noted above you do NOT want to upgrade your host PC. Instead you want to select the second option and "Created Installation Media". Click Next. 
-</p>
-<p>
-  <img src="https://i.imgur.com/FTxkBzo.png" width="50%" alt="Media Creation Tool download"/>
-</p>
-<p>
-  The next screen will show you information about what you are going to download, again click next to continue. 
-</p>
-<p>
-  <img src="https://i.imgur.com/7Xmks6W.png" width="50%" alt="Media Creation Tool download"/>
-</p>
-<p>
-  On the next screen, you will most likely want to download an ISO file so you can mount it to your Virtual Machine. If you want to install Windows 10 on a    physical computer, you can chose instead to download to a USB drive. We will select the ISO file and click next.
-</p>
-<p>
-  <img src="https://i.imgur.com/7ixO177.png" width="50%" alt="Media Creation Tool download"/>
-</p>
+<p>As noted above you do NOT want to upgrade your host PC. Instead you want to select the second option and "Created Installation Media". Click Next.</p>
+<img src="https://i.imgur.com/FTxkBzo.png" width="50%" alt="Media Creation Tool download"/>
 
+<p>The next screen will show you information about what you are going to download, again click next to continue.</p>
+<img src="https://i.imgur.com/7Xmks6W.png" width="50%" alt="Media Creation Tool download"/>
 
+<p>On the next screen, you will most likely want to download an ISO file so you can mount it to your Virtual Machine. If you want to install Windows 10 on a physical computer, you can chose instead to download to a USB drive. We will select the ISO file and click next.</p>
+<img src="https://i.imgur.com/7ixO177.png" width="50%" alt="Media Creation Tool download"/>
+
+<br />
 <h2>Step 3: Create a VM in VirtualBox</h2>
 
-<p>
-<img align="left" src="https://i.imgur.com/Yk7s7BU.png" width="50%" alt="Media Creation Tool download"/>
-Open up VirtualBox. From here, we need to create a new VM. You can do this by clicking the "New" button as shown below:
-</p><br>
+<p>Open up VirtualBox. From here, we need to create a new VM. You can do this by clicking the "New" button as shown below:</p>
+<img src="https://i.imgur.com/Yk7s7BU.png" width="50%" alt="Media Creation Tool download"/>
 
-<p>
+<p>This will open the "Create Virtual Machine" dialog in Guided Mode. From here you can specify the VM Name.</p>
 <img src="https://i.imgur.com/kZoABIf.png" width="50%" alt="Media Creation Tool download"/>
-</p>
-<p>
-<img src="https://i.imgur.com/mgfzqHT.png" width="50%" alt="Media Creation Tool download"/>
-<img src="https://i.imgur.com/82EPcFq.png" width="50%" alt="Media Creation Tool download"/>
-</p>
 
-<p>
-<img src="https://i.imgur.com/Xb0T0cR.png" width="33%" alt="Media Creation Tool download"/>
-</p>
-<p>
-<img src="https://i.imgur.com/TeDozXn.png" width="33%" alt="Media Creation Tool download"/>
-</p>
-<p>
-<img src="https://i.imgur.com/67Bk04p.png" width="33%" alt="Media Creation Tool download"/>
-</p>
+<p>Over the next two screens you can select the amount of RAM and whether or not you want to create a new hard disk. For simplicity, leave these at their default values. These can be changed later (or now) if you need more processing power, memory or storage. Just know that the VM will use YOUR PC's resources so whatever the VM is using, the PC will not be able to use.</p>
 
+<img src="https://i.imgur.com/mgfzqHT.png" width="49%" alt="Media Creation Tool download"/>
+<img src="https://i.imgur.com/82EPcFq.png" width="49%" alt="Media Creation Tool download"/>
 
+<p>Once you have made all of these selections you can click "Create" to make the Hard Disk.</p>
+
+<br /> 
 <h2>Step 4: Install Windows on the VM</h2>
+
+<p>In order to install Windows on the VM, we need to <b>mount</b> the ISO file. This is no different than inserting a USB or a CD-ROM with Windows into your computer. First, select the VM you just created on the left and click "Settings" as shown below:</p>
+<img src="https://i.imgur.com/Xb0T0cR.png" width="50%" alt="Media Creation Tool download"/>
+<img src="https://i.imgur.com/TeDozXn.png" width="50%" alt="Media Creation Tool download"/>
+<img src="https://i.imgur.com/67Bk04p.png" width="50%" alt="Media Creation Tool download"/>
 
 <p>
 <img src="https://i.imgur.com/CuCDusl.png" width="33%" alt="Media Creation Tool download"/>
@@ -105,6 +88,7 @@ Open up VirtualBox. From here, we need to create a new VM. You can do this by cl
 <img src="https://i.imgur.com/rNPbdyg.png" width="33%" alt="Media Creation Tool download"/>
 </p>
 
+<br />
 <h2>Next Steps...</h2>
 
 <p>
