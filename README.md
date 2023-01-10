@@ -101,7 +101,6 @@ the next screen select the drive you wish to install Windows 10 on (there should
 <p>Now that Windows is installed, all that's left is some configuration settings (keyboard, user account, time, etc.) that Windows will walk you through. Enjoy your new Windows VM!</p>
 <img src="https://i.imgur.com/AIbM7cz.png" width="50%" alt="Media Creation Tool download"/>
 
-<br />
 <h3>Related Tutorials</h3>
 
 - [Installing Windows Server within VirtualBox](https://github.com/briankelly-it/windows-server-virtualbox)
