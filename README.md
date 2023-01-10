@@ -69,7 +69,17 @@ you get to the "What do you want to do" screen.
 
 <p>In order to install Windows on the VM, we need to <b>mount</b> the ISO file. This is no different than inserting a USB or a CD-ROM with Windows into your computer. First, select the VM you just created on the left and click "Settings" as shown below:</p>
 <img src="https://i.imgur.com/Xb0T0cR.png" width="50%" alt="Media Creation Tool download"/>
-<img src="https://i.imgur.com/TeDozXn.png" width="50%" alt="Media Creation Tool download"/>
+
+<p>Under the VM settings, click the Storage tab and click the disk icon under the "Storage Devices" section. In the image below, it has the word "Empty" next to it indicating that there is no optical disc (or disc image) selected. Then select the dropdown disc icon and click "ChooseVirtual Optical Disk File..."</p>
+<img src="https://i.imgur.com/TeDozXn.png" width="70%" alt="Media Creation Tool download"/>
+
+
+<p>From here just navigate to the ISO you wish to mount to theVM. Once you selected the ISO click OK and
+save the settings.
+At this point we are ready to launch theVMs.Regardless of whether you are usingVirtualBox, Hyper-V,
+Windows or Linux, once you launch theVMs the steps covered in the next chapter will be the same.
+To start aVM inVirtualBox you just need to right-click on theVM and select Start > Normal Start.</p>
+
 <img src="https://i.imgur.com/67Bk04p.png" width="50%" alt="Media Creation Tool download"/>
 
 <p>
