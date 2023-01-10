@@ -74,8 +74,7 @@ you get to the "What do you want to do" screen.
 <img src="https://i.imgur.com/lUhHj3J.png" width="90%" alt="Media Creation Tool download"/>
 
 
-<p>From here just navigate to the ISO you wish to mount to the VM. Once you selected the ISO click OK and save the settings.</p>
-<p>At this point we are ready to launch the VM.</p>
+<p>From here just navigate to the ISO you wish to mount to the VM. Once you selected the ISO click OK and save the settings. At this point we are ready to launch the VM.</p>
 
 <p>To start a VM in VirtualBox you just need to right-click on the VM and select Start > Normal Start. (or just double-click the VM)</p>
 <img src="https://i.imgur.com/67Bk04p.png" width="50%" alt="Media Creation Tool download"/>
@@ -86,18 +85,24 @@ you get to the "What do you want to do" screen.
 <p>On the next screen you will be asked to enter your license key. If you don't have one, you can proceed with an evaluation installation by clicking "I don't have a product key".</p>
 <img src="https://i.imgur.com/MXHHUYe.png" width="50%" alt="Media Creation Tool download"/>
 
-<p>Next you need to select the operating system that you want to install and click Next. I tend to choose the Pro edition because it offers more features. Accept the license terms on the next screen and click Next</p>
-<img src="https://i.imgur.com/Puut87l.png" width="33%" alt="Media Creation Tool download"/>
+<p>Next you need to select the operating system that you want to install and click Next. I tend to choose the Pro edition because it offers more features. After you've made your selection, accept the license terms on the next screen and click Next</p>
+<img src="https://i.imgur.com/MKwt15j.png" width="50%" alt="Media Creation Tool download"/>
 
-On the next screen you need to .</p>
-<img src="https://i.imgur.com/MKwt15j.png" width="33%" alt="Media Creation Tool download"/>
+<p>Click on the "Custom: Install Windows Only (advanced)" since this is a fresh installation of Windows. On
+the next screen select the drive you wish to install Windows 10 on (there should only be one, the virtual drive created during the VM creation step) and click Next to begin the installation.</p>
+<img src="https://i.imgur.com/Puut87l.png" width="50%" alt="Media Creation Tool download"/>
+<img src="https://i.imgur.com/rNPbdyg.png" width="50%" alt="Media Creation Tool download"/>
 
-
-<img src="https://i.imgur.com/rNPbdyg.png" width="33%" alt="Media Creation Tool download"/>
+<p>Congrats! You've successfully installed Windows 10 on a VirtualBox VM.</p>
 
 <br />
 <h2>Next Steps...</h2>
 
-<p>
-<img src="https://i.imgur.com/AIbM7cz.png" width="33%" alt="Media Creation Tool download"/>
-</p>
+<p>Now that Windows is installed, all that's left is some configuration settings (keyboard, user account, time, etc.) that Windows will walk you through. Enjoy your new Windows VM!</p>
+<img src="https://i.imgur.com/AIbM7cz.png" width="50%" alt="Media Creation Tool download"/>
+
+<br />
+<h3>Related Respositories</h3>
+
+- test 
+- test
