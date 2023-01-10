@@ -50,8 +50,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <h2>Step 3: Create a VM in VirtualBox</h2>
 
 <p>
-<img src="https://i.imgur.com/Yk7s7BU.png" width="50%" alt="Media Creation Tool download"/>
-</p>
+<img align="left" src="https://i.imgur.com/Yk7s7BU.png" width="50%" alt="Media Creation Tool download"/>
+Open up VirtualBox. From here, we need to create a new VM. You can do this by clicking the "New" button as shown below:
+</p><br>
 
 <p>
 <img src="https://i.imgur.com/kZoABIf.png" width="50%" alt="Media Creation Tool download"/>
