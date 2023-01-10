@@ -33,7 +33,8 @@ and download the Windows 10 media creation tool:</p>
 </p>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once the download is complete go ahead and launch the tool. Accept the license terms and click Next until
+you get to the "What do you want to do" screen.
 </p>
 <br />
 
@@ -41,9 +42,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <h2>Step 2: Create a Windows 10 ISO file</h2>
 
 <p>
-<img src="https://i.imgur.com/FTxkBzo.png" width="33%" alt="Media Creation Tool download"/>
-<img src="https://i.imgur.com/7Xmks6W.png" width="33%" alt="Media Creation Tool download"/>
-<img src="https://i.imgur.com/7ixO177.png" width="33%" alt="Media Creation Tool download"/>
+  As noted above you do NOT want to upgrade your host PC. Instead you want to select the second option and "Created Installation Media". Click Next. 
+</p>
+<p>
+  <img src="https://i.imgur.com/FTxkBzo.png" width="50%" alt="Media Creation Tool download"/>
+</p>
+<p>
+  The next screen will show you information about what you are going to download, again click next to continue. 
+</p>
+<p>
+  <img src="https://i.imgur.com/7Xmks6W.png" width="50%" alt="Media Creation Tool download"/>
+</p>
+<p>
+  On the next screen, you will most likely want to download an ISO file so you can mount it to your Virtual Machine. If you want to install Windows 10 on a    physical computer, you can chose instead to download to a USB drive. We will select the ISO file and click next.
+</p>
+<p>
+  <img src="https://i.imgur.com/7ixO177.png" width="50%" alt="Media Creation Tool download"/>
 </p>
 
 
